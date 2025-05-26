@@ -11,4 +11,5 @@ This project analyzes food sales data, identifying key trends across cities, reg
 
 ## 📂 Dataset
 Download the dataset here: [HOME WORK OF EXCEL PROJECT.xlsx]
-THE PROJECT DATA IN FILE IS HERE 
+## 📂 Project File
+(HOME%20WORK%20OF%20EXCEL%20PROJECT.xlsx)
